@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- <img src= ![Imgur Image](https://imgur.com/cUeCz58) title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
-![](https://i.imgur.com/cUeCz58.gif)
+![Video Walkthrough](https://user-images.githubusercontent.com/17541865/131564046-b42c6217-7da6-4bd7-8e9a-5392dac94be1.mov)
 
 ## Notes
 
